@@ -1,0 +1,41 @@
+body{
+    background-color: navajowhite;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-weight: 500;
+}
+
+h4{
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img{
+    width: 600;
+    box-shadow: 3px 5px 3px black;
+}
+
+img:hover{
+    border-radius: 140px;
+}
+
+#camera{
+    border: 5px solid grey;
+    width: 500px;
+    height: 400px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: grey;
+    bottom: 0%;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
